@@ -1,0 +1,34 @@
+﻿body {
+}
+
+#head{
+    width : 900px;
+    height : 200px;
+    background-color: red;
+
+}
+#body {
+    width: 900px;
+    height: 200px;
+    background-color: aquamarine;
+}
+#foot {
+    width: 900px;
+    height: 200px;
+    background-color: burlywood;
+}
+
+#left {
+    width: 20%;
+    height: 200px;
+    background-color: blue;
+    float : left;
+    margin : 3px;
+}
+
+
+#right {
+    width: 100%;
+    height: 200px;
+    background-color: brown;
+}
